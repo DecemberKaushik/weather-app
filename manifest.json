@@ -1,0 +1,10 @@
+{
+  "short_name": "Weather",
+  "name": "Weather",
+  "description": "Weather forecast information",
+  "start_url": "/?source=pwa",
+  "background_color": "#4D517B",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4D517B"
+}
