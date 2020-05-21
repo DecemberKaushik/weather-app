@@ -1,10 +1,15 @@
 {
-  "short_name": "Weather",
-  "name": "Weather",
-  "description": "Weather forecast information",
-  "start_url": "/?source=pwa",
-  "background_color": "#4D517B",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#4D517B"
+    "short_name": "Weather",
+    "name": "Weather",
+    "description": "Weather forecast information",
+    "start_url": "https://weather-app-ten-sigma.now.sh/",
+    "background_color": "#4D517B",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#4D517B",
+    "url": "https://weather-app-ten-sigma.now.sh/",
+    "lang": "",
+    "icons": [],
+    "screenshots": [],
+    "orientation": "portrait"
 }
